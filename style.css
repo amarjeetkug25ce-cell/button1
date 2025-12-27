@@ -1,0 +1,105 @@
+body{
+    background-color: bisque;
+}
+div{
+    width: 400px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: rgb(41, 48, 112);
+
+    
+
+}
+#home{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: purple;    
+}
+#homebutton{
+    width: 60px;
+    border-radius: 20px;
+    position: relative;
+    left: 5px;
+    top: 5px;
+    border-color: purple;
+    cursor: auto;
+    transition: 1ms;
+}
+#homebutton:hover{
+    background-color:rgb(194, 197, 196);
+}
+#search{
+    width: 60px;
+    position: relative;
+    bottom: 16.5px;
+    left: 80px;
+    border-radius: 20px;
+    border-color: purple;
+    cursor: pointer;
+    transition: 0ms;
+}
+#search:hover{
+    background-color: rgb(192, 192, 189);
+}
+#menu{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+color: purple;
+}
+#menubutton{
+    width: 60px;
+    border-radius: 20px;
+    position: relative;
+    left: 165px;
+    bottom:38px;
+    border-color: purple;
+    cursor: pointer;
+    transition: 0ms;
+}
+#menubutton:hover{
+    background-color: rgb(198, 199, 199);
+}
+#account{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+color: purple;
+}
+#accountbutton{
+    width: 60px;
+    border-radius: 20px;
+    position: relative;
+    left: 186px;
+    bottom:38px;
+    border-color: purple;
+    cursor: pointer;
+    transition: 0ms;
+}
+#accountbutton:hover{
+    background-color: rgb(194, 197, 197);
+}
+#help{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+color: purple;
+}
+#helpbutton{
+    width: 60px;
+    border-radius: 20px;
+    position: relative;
+    left: 205px;
+    bottom:38px;
+    border-color: purple;
+    cursor: pointer;
+    transition: 0ms;
+}
+#helpbutton:hover{
+    background-color: rgb(192, 198, 198);
+
+}
+#contact{
+    border-radius: 20px;
+    border-color: purple;
+
+}
+a{
+    text-decoration:none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: purple;
+}
+
