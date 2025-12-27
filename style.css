@@ -1,5 +1,7 @@
 body{
     background-color: bisque;
+    position: absolute;
+    top: 658.3px;
 }
 div{
     width: 400px;
@@ -102,4 +104,5 @@ a{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: purple;
 }
+
 
